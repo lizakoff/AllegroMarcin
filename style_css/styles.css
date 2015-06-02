@@ -1,0 +1,21 @@
+body {
+    background: #f7f7f7 url('images/bg01.png');
+}
+.fa-th{
+    font-size: 20pt;
+    color: red;
+}
+.naglowek h1{
+    font-family: 'Aladin', sans-serif;
+	font-size: 40pt;
+}
+.col-xs-6 .col-sm-8 
+{
+	font-family: calibri;
+}	
+.row
+{
+	background-color:white;
+}
+
+    
